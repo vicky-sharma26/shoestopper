@@ -1,0 +1,49 @@
+#logo{
+    top: 2%;
+    width: 4%;
+    position: fixed;
+}
+.navbar{
+    height: 8%;
+}
+#image1{
+    width: 100%;
+    margin-bottom: 10%;
+}
+#section1{
+    margin-top: 15%;
+}
+#section2{
+    margin-top: 15%;
+}
+#section3{
+    margin-top: 15%;
+}
+a:hover #image1{
+    transform: scale(1.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
+}
+body{
+    overflow-x: hidden;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: black;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: #2e2d2d;
+  }
+  
+  /* selected link */
+  a:active {
+    color: black;
+  }

@@ -1,0 +1,50 @@
+body{
+    overflow-x: hidden;
+  }
+  .row{
+      margin-top: 11%;
+  }
+.w3-button{
+    margin-top: 1%;
+    width: 13%;
+    height: 11%;
+    background-color: white;
+    border-color: black;
+    border-width: 1px;
+  }
+  #logo{
+    top: 2%;
+    width: 4%;
+    position: fixed;
+}
+.navbar{
+    height: 8%;
+}
+.foot{
+    bottom: 0%;
+    position: fixed;
+    text-align: center;
+}
+.btn-size{
+    width: 20%;
+    /* height: 14%; */
+    background-color: white;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 4px;
+    font-size: 18px;
+  }
+.btn-buy{
+    margin-top: 1%;
+    margin-bottom: 1%;
+    width: 82%;
+    background-color: white;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 4px;
+    font-size: 18px;
+}
+.mySlides {
+  display:none;
+  width: 100%;
+}
